@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Embark on a heartrending journey into a brutal, breathtaking world, and discover the cost of saving those you love in a desperate struggle for survival. Strike from the shadows or unleash hell with a variety of weapons, tools and unearthly powers.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 (20H1 64 bits) | macOS 11.0 or later |
+| **Processor** | Min: Intel Core i5-4690K (3.5 GHz)/AMD FX-8300 (3.3 GHz) / Rec: Intel Core i7-8700K (3.7 GHz) / AMD Ryzen 5 3600 (3.6 G… | Intel Core i5 / Apple M1 |
+| **Memory** | 16 GB RAM | 16 GB RAM |
+| **Graphics** | Min: 4 GB, GeForce GTX 970/Radeon RX 590 / Rec: 8 GB, GeForce RTX 3070/Radeon RX 6800 XT | Metal-capable GPU |
+| **DirectX** | Version 12 | Version 12 |
+| **Storage** | 55 GB available space | 55 GB available space |
+| **Additional Notes** | Min: 30 FPS, 1920x1080 in low. DirectX 12 Feature Level 12 a… / Rec: 60 FPS, 1920x1080 in ultra. SSD storage is recommended. | 30 FPS, 1920x1080 in low. DirectX 12 Feature Level 12 a… |
 
 ---
 
